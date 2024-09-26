@@ -75,6 +75,27 @@ x = = 2 y; X
 
 O Java Development Kit (JDK) é um pacote de software que contém ferramentas para desenvolver aplicativos em Java. O JDK é composto por:
 
+* Interpretador Java
+* Classes Java
+* Compilador
+* Depurador
+* Desmontador
+* Apple tv viewer
+* Gerador de arquivos stub
+* Gerador de documentação
+
+```Java Runtime Environment (JRE)```
+
+O Java Runtime Environment (JRE) é um software necessário para que os programas em Java funcionem corretamente. O Java é uma linguagem de programação que viabiliza muitas aplicações móveis e Web usadas hoje em dia. O JRE é a tecnologia subjacente que estabelece a comunicação entre o programa em Java e o sistema operacional. Ele atua como um tradutor e facilitador, fornecendo todos os recursos para que o software que você cria usando a linguagem funcione em qualquer sistema operacional sem modificações adicionais.
+
+```Java Virtual Machine (JVM)```
+
+A JVM é o software que executa cada linha do programa em Java. Os desenvolvedores definem as configurações da JVM para gerenciar recursos do programa quando o aplicativo em Java for executado. Por exemplo, é possível alterar a configuração de memória da JVM e verificar quanta memória interna seus aplicativos em Java estão usando no tempo de execução.
+
+
+
+
+
 
 
 
