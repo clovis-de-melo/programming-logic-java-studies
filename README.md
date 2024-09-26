@@ -92,7 +92,7 @@ O Java Runtime Environment (JRE) é um software necessário para que os programa
 
 A JVM é o software que executa cada linha do programa em Java. Os desenvolvedores definem as configurações da JVM para gerenciar recursos do programa quando o aplicativo em Java for executado. Por exemplo, é possível alterar a configuração de memória da JVM e verificar quanta memória interna seus aplicativos em Java estão usando no tempo de execução.
 
-
+[](/assets/estrutura%20sequencial.png)
 
 
 
