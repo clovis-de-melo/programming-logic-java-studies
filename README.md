@@ -92,6 +92,13 @@ O Java Runtime Environment (JRE) é um software necessário para que os programa
 
 A JVM é o software que executa cada linha do programa em Java. Os desenvolvedores definem as configurações da JVM para gerenciar recursos do programa quando o aplicativo em Java for executado. Por exemplo, é possível alterar a configuração de memória da JVM e verificar quanta memória interna seus aplicativos em Java estão usando no tempo de execução.
 
+```Estrutura sequencial```
+
+A estrutura sequencial é uma estrutura de controle básica que consiste em uma sequência de instruções que são executadas uma após a outra, sem interrupções ou desvios. </br>
+
+Primeiramente, é feita a declaração das variáveis, posteriormente, são executados os comandos de entrada e/ou atribuição. Na sequência é realizado o processamento dos dados e, no final, realiza-se a saída de dados.
+
+
 
 
 
